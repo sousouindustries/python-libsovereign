@@ -19,7 +19,7 @@ setup(
     author='Cochise Ruhulessin',
     author_email='cochise.ruhulessin@sousouindustries.com',
     description=("A Python shared library for the Sovereign system."),
-    license='Apache Licence 2.0',
+    license='BSD',
     packages=find_packages(exclude=EXCLUDE_FROM_PACKAGES),
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
